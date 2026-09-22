@@ -1,5 +1,9 @@
 # From Sequence to Spatial: Mamba S6 From Scratch
 
+A collaborative MVA Deep Learning project by **Clement Marie and Ying JIN**. This fork preserves [the original repository](https://github.com/clmrie/Mamba-S6-From-Scratch) and its history. Both authors appear on the [project poster](poster/poster.pdf).
+
+See the [portfolio and reproduction guide](docs/PORTFOLIO.md) for verified entry points, setup, attribution and the limits of the recorded results. The individual contribution split is not specified in the poster; this fork does not claim sole authorship.
+
 This repository is a **simple PyTorch reimplementation of Mamba (Selective State Space Models)**, with an extension to **image data**.
 
 The goal is twofold:
