@@ -90,7 +90,7 @@ This visualization illustrates input-dependent selectivity for the displayed exa
 
 ## Collaborators
 
-This is a joint project by Clement Marie and Ying Jin. [Clement Marie's website](https://clmrie.github.io/) and [Ying Jin's portfolio](https://github.com/PineappleBlowsnow/mva-portfolio) provide their respective project backgrounds.
+This is a joint project by Clement Marie and Ying Jin. [Clement Marie's website](https://clmrie.github.io/) and [Ying Jin's portfolio](https://github.com/PineappleBlowsnow#mva-projects) provide their respective project backgrounds.
 
 
-[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
+[Back to Ying Jin's project directory](https://github.com/PineappleBlowsnow#mva-projects)
