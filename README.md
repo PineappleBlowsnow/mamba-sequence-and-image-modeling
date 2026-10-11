@@ -1,4 +1,6 @@
-# From Sequence to Spatial: Mamba S6 From Scratch
+# Sequence and Image Modeling with Mamba S6
+
+**MVA course — Deep Learning**
 
 A collaborative MVA Deep Learning project by **Clement Marie and Ying JIN**. This fork preserves [the original repository](https://github.com/clmrie/Mamba-S6-From-Scratch) and its history. Both authors appear on the [project poster](poster/poster.pdf).
 
@@ -61,7 +63,7 @@ Mamba uses an input-dependent parameter $\Delta$ that controls how much informat
 
 When visualized on a digit **7**, $\Delta$ becomes large on strokes and edges, and small elsewhere.
 
-This shows that the model **selects information only when needed**.
+This visualization illustrates input-dependent selectivity for the displayed example; it is not a general attribution or causal claim.
 
 <img src="outputs/figures/delta_visualization.png" width="500"/>
 
@@ -86,6 +88,9 @@ This shows that the model **selects information only when needed**.
 ```
 
 
-## Personal website
+## Collaborators
 
-Check out [Clement Marie’s personal website](https://clmrie.github.io/) for my research, projects, and CV.
+This is a joint project by Clement Marie and Ying Jin. [Clement Marie's website](https://clmrie.github.io/) and [Ying Jin's portfolio](https://github.com/PineappleBlowsnow/mva-portfolio) provide their respective project backgrounds.
+
+
+[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
